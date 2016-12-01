@@ -1,0 +1,5 @@
+<!--fromAlpha="0.0" -полное исчезновение  toAlpha="1.0" - нормальное состояние  -->
+
+<alpha android:fromAlpha="1.0"
+    android:toAlpha="0.0"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
